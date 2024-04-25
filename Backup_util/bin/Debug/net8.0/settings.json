@@ -1,0 +1,5 @@
+{
+	"DestinationPath":"E:\\testFolder\\destinationFolder",
+	"SourcePath":"E:/testFolder/sourceFolder",
+	"CronExp":"0 * * ? * *"
+}
